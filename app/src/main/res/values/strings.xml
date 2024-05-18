@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DScanner</string>
+    <string name="scan">Scan</string>
+    <string name="scan_gallery">Gallery</string>
+</resources>
